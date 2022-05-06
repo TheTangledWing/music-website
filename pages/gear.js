@@ -28,7 +28,35 @@ export default function Home() {
 
 				<Space/>
 
-				<Picture img="../images/gear/alanguitar.jpg"/>
+				<Picture 
+          img="../images/gear/flame.png"
+          title="Flame Guitar" 
+					description="My oldest guitar. Orignally a horrible shade of blue. I sanded it down and repainted it. Its been through the wars and still just about plays"
+          />
+
+        <Picture 
+          img="../images/gear/strat.png"
+          title="The Strat" 
+					description="Bought in the legendary music Store in New York in 2008. This has been my main work horse over the years."
+          />
+
+        <Picture 
+          img="../images/gear/pacifica.png"
+          title="My First Guitar" 
+					description="My cousin gave me this guitar when I was 11. This set me on the journey of spending thousands of euro on guitars."
+          />
+
+        <Picture 
+          img="../images/gear/tanglewood.png"
+          title="Tanglewood" 
+					description="Another freebie. This was my uncles guitar. He gave it to me. Its a really beautiful guitar. But badly needs refretting."
+          />
+
+        <Picture 
+          img="../images/gear/madiera.png"
+          title="Madiera" 
+					description="This guitar is a real gem. Acquired for €20. Its a rare guitar that I have great plans to someday mod and restore to its former glory. "
+          />
 
       </main>
 
