@@ -41,21 +41,27 @@ export default function Home() {
           />
 
         <Picture 
-          img="../images/gear/pacifica.png"
+          img="../images/gear/pacifica.jpg"
           title="My First Guitar" 
 					description="My cousin gave me this guitar when I was 11. This set me on the journey of spending thousands of euro on guitars."
           />
 
         <Picture 
-          img="../images/gear/tanglewood.png"
+          img="../images/gear/tanglewood.jpg"
           title="Tanglewood" 
 					description="Another freebie. This was my uncles guitar. He gave it to me. Its a really beautiful guitar. But badly needs refretting."
           />
 
         <Picture 
-          img="../images/gear/madiera.png"
+          img="../images/gear/madiera.jpg"
           title="Madiera" 
 					description="This guitar is a real gem. Acquired for €20. Its a rare guitar that I have great plans to someday mod and restore to its former glory. "
+          />
+
+        <Picture 
+          img="../images/gear/takemine.jpg"
+          title="Takemine G Series" 
+					description="This guitar was given to me as a birthday present by my friend Beaver. It was the first decent acousic guitar I owned."
           />
 
       </main>
