@@ -1,7 +1,13 @@
+import Navbar from '../components/Navbar.js'
 import '../styles/globals.css'
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
+function MusicWebsite({ Component, pageProps }) {
+  return ( 
+  <>
+    <Navbar/>
 
-export default MyApp
+    <Component {...pageProps} />
+  </>
+)
+}
+export default MusicWebsite
